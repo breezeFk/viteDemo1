@@ -1,0 +1,10 @@
+// 定义变量
+$primary-color: #42b883;
+$secondary-color: #35495e;
+
+// 混合(mixin)
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
