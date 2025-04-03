@@ -1,7 +1,7 @@
 <template>
   <div>
     <buttona>
-      hahahahah
+      hahaha
     </buttona>
   </div>
 
