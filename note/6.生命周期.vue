@@ -6,7 +6,7 @@
   
   <script setup lang="ts">
   import { ref,onBeforeUnmount,onUnmounted } from "vue";
-  import LifecycleHooksDemo from "./components/LifecycleHooksDemo.vue";
+  import LifecycleHooksDemo from "~/components/LifecycleHooksDemo.vue";
   const flag = ref<boolean>(true);
   
   onBeforeUnmount(() => {
